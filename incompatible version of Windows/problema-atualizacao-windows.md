@@ -21,11 +21,3 @@ A solução para esse problema é atualizar o Windows 10 para uma versão suport
 3. Execute a ferramenta de criação de mídia e siga as instruções para atualizar o Windows.
 4. Após a conclusão da atualização, reinicie o sistema.
 5. Após reiniciar, execute novamente o instalador do Docker Desktop.
-
-## Links Úteis
-
-- [Download do Windows 10](https://www.microsoft.com/pt-br/software-download/windows10)
-
-## Notas Adicionais
-
-Certifique-se de fazer backup dos seus dados importantes antes de realizar a atualização do sistema operacional.
