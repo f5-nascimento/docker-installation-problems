@@ -14,21 +14,18 @@ Para resolver o erro "Unexpected WSL Error", você pode seguir as seguintes etap
 
 1. **Verificar o Status do WSL:**
    - Execute o comando abaixo para verificar o status das distribuições WSL instaladas em seu sistema.
-     \```bash
-     wsl --status
-     \```
+    
+     `wsl --status`
 
 2. **Atualizar o WSL:**
    - Atualize o ambiente WSL para garantir que esteja na versão mais recente.
-     \```bash
-     wsl --update
-     \```
+
+     `wsl --update`
 
 3. **Desligar o WSL:**
    - Desligue todas as instâncias do WSL usando o comando abaixo.
-     \```bash
-     wsl --shutdown
-     \```
+
+     `wsl --shutdown`
 
 4. **Reinicie o Docker Desktop:**
    - Tente reiniciar o Docker Desktop e verifique se o problema persiste.
