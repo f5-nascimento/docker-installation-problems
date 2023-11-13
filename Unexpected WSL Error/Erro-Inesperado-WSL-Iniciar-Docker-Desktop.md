@@ -4,9 +4,11 @@
 
 Ao tentar iniciar o Docker Desktop, você pode se deparar com o seguinte erro:
 
+```
 An unexpected error was encountered while executing a WSL command.
 Common causes include access rights issues, which occur after waking the computer or not being connected to your domain/active directory.
 Please try shutting WSL down (wsl --shutdown) and/or rebooting your computer. If not sufficient, WSL may need to be reinstalled fully. As a last resort, try to uninstall/reinstall Docker Desktop. If the issue persists please collect diagnostics and submit an issue.
+```
 
 ## Solução Proposta
 
