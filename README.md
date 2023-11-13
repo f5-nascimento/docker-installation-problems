@@ -1,4 +1,4 @@
-# Docker Installation Problems
+# Docker Installation Problems on Windows OS
 
 Este repositório visa documentar problemas comuns durante a instalação do Docker Desktop e fornecer soluções para esses problemas.
 
