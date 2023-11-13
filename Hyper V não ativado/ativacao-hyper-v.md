@@ -19,9 +19,6 @@ Ao tentar utilizar o Docker no Windows, é essencial que o Hyper-V esteja devida
     ![ativar e desativas 3](https://github.com/f5-nascimento/docker-installation-problems/assets/28812188/4c70318c-bfa2-44f9-9696-f8154e3d432a)
 
 
-3. **Verificação da Ativação:**
-   - Após a conclusão das etapas anteriores, verifique se o Hyper-V está ativado corretamente.
-   - Abra o "Gerenciador Hyper-V" para confirmar a ativação.
 
 Ao seguir essas instruções, você resolverá o problema de Hyper-V não ativado no Windows, permitindo o uso adequado do Docker.
 
