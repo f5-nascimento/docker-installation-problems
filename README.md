@@ -18,9 +18,6 @@ Sinta-se à vontade para contribuir relatando novos problemas, sugerindo melhori
 2. **Contribua com Soluções:**
    - Se você tem uma solução para um problema existente, abra um "Pull Request" com as alterações propostas.
 
-3. **Padrão de Postagem:**
-   - Consulte o [modelo de postagem](./.github/POSTING_GUIDELINES.md) para garantir consistência nas contribuições.
-
 ## Licença
 
 Este repositório é licenciado sob a [Licença MIT](./LICENSE).
