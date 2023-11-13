@@ -6,7 +6,7 @@ Este repositório visa documentar problemas comuns durante a instalação do Doc
 
 - [Incompatible Version of Windows](https://github.com/f5-nascimento/docker-installation-problems/blob/main/incompatible%20version%20of%20Windows/problema-atualizacao-windows.md)
 - [Unexpected WSL Error](https://github.com/f5-nascimento/docker-installation-problems/blob/main/Unexpected%20WSL%20Error/Erro-Inesperado-WSL-Iniciar-Docker-Desktop.md)
-- ...
+- [Hyper V não ativado](https://github.com/f5-nascimento/docker-installation-problems/blob/main/Unexpected%20WSL%20Error/Erro-Inesperado-WSL-Iniciar-Docker-Desktop.md)
 
 ## Como Contribuir
 
